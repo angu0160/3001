@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# MMA3001 Smart Infrastructure Project
+# ==========================================
+
+# Raw and processed sensor datasets
+data/*.csv
+data/*.zip
+data/*.xlsx
+
+# VS Code local settings
+.vscode/
