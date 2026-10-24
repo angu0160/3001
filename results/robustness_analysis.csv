@@ -1,0 +1,7 @@
+Change_Group,Model,Observations,MAE_C
+Larger changes,Persistence,760,0.9185526315789474
+Larger changes,Linear Regression,760,0.8633190231403609
+Larger changes,Decision Tree,760,0.45322273277648495
+Smaller changes,Persistence,1722,0.13896631823461092
+Smaller changes,Linear Regression,1722,0.17751226556635072
+Smaller changes,Decision Tree,1722,0.22799932475393395
