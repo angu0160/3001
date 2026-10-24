@@ -1,7 +1,5 @@
 # MMA3001 — Smart Infrastructure Temperature Forecasting
 
-**Monash University | MMA3001: Numerical Methods and Machine Learning**
-
 ## Project Overview
 
 This project develops and evaluates machine-learning models for predicting indoor temperature approximately one hour in advance using environmental sensor measurements from the Monash Smart Infrastructure dataset.
